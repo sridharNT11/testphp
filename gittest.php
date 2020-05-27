@@ -1,5 +1,5 @@
 <?php 
 
-echo "i am from git";
+echo "i am from git and updated";
 
 ?>	
